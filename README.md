@@ -1,6 +1,6 @@
 # match-path
 
-![https://travis-ci.org/bloodyowl/match-path](https://travis-ci.org/bloodyowlmatch-path.svg)
+![https://travis-ci.org/bloodyowl/match-path](https://travis-ci.org/bloodyowl/match-path.svg)
 
 ## install
 
